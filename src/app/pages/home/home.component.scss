@@ -1,0 +1,9 @@
+.completed{
+    color: red;
+    text-decoration: line-through;
+}
+.custom-checkbox {
+    pointer-events: none; /* Disable pointer events */
+    opacity: 0.3; /* Reduce opacity to indicate disabled state */
+  
+  }
